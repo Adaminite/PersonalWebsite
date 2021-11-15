@@ -15,6 +15,15 @@ function Navbar(){
                 </Link>
 
                 <Link className  = "nav-button" 
+                      to = "projects"
+                      delay = {10}
+                      duration = {1000}
+                      smooth = {true}
+                > 
+                 Projects 
+                </Link>
+                
+                <Link className  = "nav-button" 
                       to = "contact"
                       delay = {10}
                       duration = {1000}
@@ -23,14 +32,6 @@ function Navbar(){
                  Contact 
                 </Link>
 
-                <Link className  = "nav-button" 
-                      to = "projects"
-                      delay = {10}
-                      duration = {1000}
-                      smooth = {true}
-                > 
-                 Projects 
-                </Link>
 
             </nav>
         </div>
