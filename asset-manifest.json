@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.70cf7316.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.13d8ddef.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.13d8ddef.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.0df9ae1a.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.0df9ae1a.js.map",
+    "static/js/2.7097b0c3.chunk.js": "/PersonalWebsite/static/js/2.7097b0c3.chunk.js",
+    "static/js/2.7097b0c3.chunk.js.map": "/PersonalWebsite/static/js/2.7097b0c3.chunk.js.map",
+    "static/js/3.c6c2869d.chunk.js": "/PersonalWebsite/static/js/3.c6c2869d.chunk.js",
+    "static/js/3.c6c2869d.chunk.js.map": "/PersonalWebsite/static/js/3.c6c2869d.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "static/css/main.70cf7316.chunk.css.map": "/PersonalWebsite/static/css/main.70cf7316.chunk.css.map",
+    "static/js/2.7097b0c3.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.7097b0c3.chunk.js.LICENSE.txt",
+    "static/media/OmarNiazi.7e4c87cd.jpg": "/PersonalWebsite/static/media/OmarNiazi.7e4c87cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0df9ae1a.js",
+    "static/js/2.7097b0c3.chunk.js",
+    "static/css/main.70cf7316.chunk.css",
+    "static/js/main.13d8ddef.chunk.js"
+  ]
+}
