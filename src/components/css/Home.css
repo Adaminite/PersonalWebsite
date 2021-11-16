@@ -1,0 +1,11 @@
+#home{
+    display: grid;
+    grid-template-columns: 10% auto;
+    column-gap: 10px;
+    background-color: rgb(218, 207, 207);
+  }
+  
+  #content{
+    margin-left: 50px;
+    
+  }
