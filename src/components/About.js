@@ -1,4 +1,4 @@
-import me from './images/OmarNiazi.jpg';
+import me from './images/me.jpg';
 import './css/About.css';
 
 function About(){
